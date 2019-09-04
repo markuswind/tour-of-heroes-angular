@@ -21,16 +21,6 @@
   left: 0.1em;
 }
 
-.heroes li.selected {
-  background-color: '#CFD8DC';
-  color: white;
-}
-
-.heroes li.selected:hover {
-  background-color: #bbd8dc;
-  color: white;
-}
-
 .heroes a {
   color: #333;
   text-decoration: none;

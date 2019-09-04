@@ -17,7 +17,7 @@ body {
 }
 
 body,
-input[type="text"],
+input[type='text'],
 button {
   color: #333;
   font-family: Cambria, Georgia;
